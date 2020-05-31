@@ -2,7 +2,7 @@ $(document).ready(function() {
 
       $('#Kokrajhar').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Kokrajhar.svg");
+        $(".districtmap").attr("src", "./src/districts/Kokrajhar.svg");
         mymodal.find('.modal-title').text('Kokrajhar');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -14,7 +14,7 @@ $(document).ready(function() {
 
       $('#Dhubri').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Dhubri.svg");
+        $(".districtmap").attr("src", "./src/districts/Dhubri.svg");
         mymodal.find('.modal-title').text('Dhubri');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -38,7 +38,7 @@ $(document).ready(function() {
 
       $('#Chirang').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Chirang.svg");
+        $(".districtmap").attr("src", "./src/districts/Chirang.svg");
         mymodal.find('.modal-title').text('Chirang');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -53,7 +53,7 @@ $(document).ready(function() {
 
       $('#Goalpara').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Goalpara.svg");
+        $(".districtmap").attr("src", "./src/districts/Goalpara.svg");
         mymodal.find('.modal-title').text('Goalpara');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -65,7 +65,7 @@ $(document).ready(function() {
 
       $('#Barpeta').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Barpeta.svg");
+        $(".districtmap").attr("src", "./src/districts/Barpeta.svg");
         mymodal.find('.modal-title').text('Barpeta');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -89,7 +89,7 @@ $(document).ready(function() {
 
       $('#Nalbari').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Nalbari.svg");
+        $(".districtmap").attr("src", "./src/districts/Nalbari.svg");
         mymodal.find('.modal-title').text('Nalbari');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -104,7 +104,7 @@ $(document).ready(function() {
 
       $('#Kamrup').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Kamrup.svg");
+        $(".districtmap").attr("src", "./src/districts/Kamrup.svg");
         mymodal.find('.modal-title').text('Kamrup');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -121,7 +121,7 @@ $(document).ready(function() {
 
         $('#Kamrup_Metro').on('click',function(){
           var mymodal = $('#district');
-          $(".districtmap").attr("src", "./css/district/Kamrup_Metro.svg");
+          $(".districtmap").attr("src", "./src/districts/Kamrup_Metro.svg");
           mymodal.find('.modal-title').text('Kamrup Metro');
 
           $(".Player4").attr("style", "display: inline-block;");
@@ -133,7 +133,7 @@ $(document).ready(function() {
 
       $('#Darrang').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Darrang.svg");
+        $(".districtmap").attr("src", "./src/districts/Darrang.svg");
         mymodal.find('.modal-title').text('Darrang');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -145,7 +145,7 @@ $(document).ready(function() {
 
       $('#Udalguri').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Udalguri.svg");
+        $(".districtmap").attr("src", "./src/districts/Udalguri.svg");
         mymodal.find('.modal-title').text('Udalguri');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -160,7 +160,7 @@ $(document).ready(function() {
 
       $('#Morigaon').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Morigaon.svg");
+        $(".districtmap").attr("src", "./src/districts/Morigaon.svg");
         mymodal.find('.modal-title').text('Morigaon');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -172,7 +172,7 @@ $(document).ready(function() {
 
       $('#Hojai').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Hojai.svg");
+        $(".districtmap").attr("src", "./src/districts/Hojai.svg");
         mymodal.find('.modal-title').text('Hojai');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -187,7 +187,7 @@ $(document).ready(function() {
 
       $('#Biswanath').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Biswanath.svg");
+        $(".districtmap").attr("src", "./src/districts/Biswanath.svg");
         mymodal.find('.modal-title').text('Biswanath');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -202,7 +202,7 @@ $(document).ready(function() {
 
       $('#Nagaon').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Nagaon.svg");
+        $(".districtmap").attr("src", "./src/districts/Nagaon.svg");
         mymodal.find('.modal-title').text('Nagaon');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -220,7 +220,7 @@ $(document).ready(function() {
 
       $('#Sonitpur').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Sonitpur.svg");
+        $(".districtmap").attr("src", "./src/districts/Sonitpur.svg");
         mymodal.find('.modal-title').text('Sonitpur');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -238,7 +238,7 @@ $(document).ready(function() {
 
       $('#Karbi_Anglong').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Karbi_Anglong.svg");
+        $(".districtmap").attr("src", "./src/districts/Karbi_Anglong.svg");
         mymodal.find('.modal-title').text('Karbi Anglong');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -253,7 +253,7 @@ $(document).ready(function() {
 
       $('#Golaghat').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Golaghat.svg");
+        $(".districtmap").attr("src", "./src/districts/Golaghat.svg");
         mymodal.find('.modal-title').text('Golaghat');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -265,7 +265,7 @@ $(document).ready(function() {
 
       $('#Jorhat').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Jorhat.svg");
+        $(".districtmap").attr("src", "./src/districts/Jorhat.svg");
         mymodal.find('.modal-title').text('Jorhat');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -280,7 +280,7 @@ $(document).ready(function() {
 
       $('#Lakhimpur').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Lakhimpur.svg");
+        $(".districtmap").attr("src", "./src/districts/Lakhimpur.svg");
         mymodal.find('.modal-title').text('Lakhimpur');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -295,7 +295,7 @@ $(document).ready(function() {
 
       $('#Sivasagar').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Sivasagar.svg");
+        $(".districtmap").attr("src", "./src/districts/Sivasagar.svg");
         mymodal.find('.modal-title').text('Sivasagar');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -310,7 +310,7 @@ $(document).ready(function() {
 
       $('#Charaideo').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Charaideo.svg");
+        $(".districtmap").attr("src", "./src/districts/Charaideo.svg");
         mymodal.find('.modal-title').text('Charaideo');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -325,7 +325,7 @@ $(document).ready(function() {
 
       $('#Dhemaji').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Dhemaji.svg");
+        $(".districtmap").attr("src", "./src/districts/Dhemaji.svg");
         mymodal.find('.modal-title').text('Dhemaji');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -343,7 +343,7 @@ $(document).ready(function() {
 
       $('#Dibrugarh').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Dibrugarh.svg");
+        $(".districtmap").attr("src", "./src/districts/Dibrugarh.svg");
         mymodal.find('.modal-title').text('Dibrugarh');
 
         $(".Player1").attr("style", "display: inline-block;");
@@ -367,7 +367,7 @@ $(document).ready(function() {
 
       $('#Tinsukia').on('click',function(){
         var mymodal = $('#district');
-        $(".districtmap").attr("src", "./css/district/Tinsukia.svg");
+        $(".districtmap").attr("src", "./src/districts/Tinsukia.svg");
         mymodal.find('.modal-title').text('Tinsukia');
 
         $(".Player1").attr("style", "display: inline-block;");
